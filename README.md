@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohannes K. Mekonnen</h1>
-<h3 align="center">A Backend Web Developer from Ethiopia</h3>
+<h3 align="center">Backend Web Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnhacker1998" alt="johnhacker1998" /></a> </p>
 
