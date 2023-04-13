@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnhacker1998&show_icons=true&locale=en" alt="johnhacker1998" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnhacker1998&" alt="johnhacker1998" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnhacker1998&" alt="johnhacker1998" /></p> 
