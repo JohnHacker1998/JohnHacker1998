@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><br>Angular,Microservices
+<br><br><br>I am Yohannes Kindu Mekonnen, a backend web developer
 
 
 ## 🌐 Socials:
