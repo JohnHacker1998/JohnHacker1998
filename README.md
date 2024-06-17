@@ -6,7 +6,6 @@ Backend API Developer
 
 * 🌍  I'm based in Addis Ababa,Ethiopia
 * ✉️  You can contact me at [Yohannes.Kindu@gmail.com](mailto:Yohannes.Kindu@gmail.com)
-* 🧠  I'm learning GraphQL,Microservices,Apache Kafka,RabbitMQ
 
 ### Skills
 
