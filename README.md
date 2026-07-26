@@ -1,95 +1,49 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yohannes K.Mekonnen
-===========================================================================================================================================
-
-Backend Engineer · Node.js · ASP.NET Core · PostgreSQL · Fintech & Real-Time Systems
---------------------------------------------------------------------------------------
-
-* 🌍  I'm based in Addis Ababa, Ethiopia (open to remote)
-* 💼  4+ years building production-grade APIs and data pipelines across fintech, healthcare, and e-learning platforms
-* ✉️  You can contact me at [Yohannes.Kindu@gmail.com](mailto:Yohannes.Kindu@gmail.com)
-
-## 🌐 Socials:
-###
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Yohannes%20K.%20Mekonnen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Node.js%20%C2%B7%20ASP.NET%20Core%20%C2%B7%20PostgreSQL&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/> <a href="https://linkedin.com/in/yohannes-k-mekonnen"> <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+APIs+%26+data+pipelines;Fintech+%C2%B7+Healthcare+%C2%B7+E-Learning+platforms;Node.js+%2B+.NET+%C2%B7+4%2B+years+in+production;Open+to+remote+opportunities+%F0%9F%8C%8D&font=Fira+Code&center=true&width=650&height=45&color=00C9FF&vCenter=true&size=20&pause=1500"/> </a> </div> <br/>
+👋 About Me
+<img align="right" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="260"/>
+🔭 Backend Engineer with 4+ years shipping production APIs across fintech, healthcare, and e-learning
+💼 Currently building a broker-dealer fundraising platform — offering versioning, investor portals, notification pipelines
+⚙️ Comfortable owning subsystems end-to-end — schema design → background jobs → deployment
+🇪🇹 Based in Addis Ababa, Ethiopia — open to remote roles
+📫 Reach me at Yohannes.Kindu@gmail.com
+<br clear="right"/>
+🌐 Connect With Me
+<div align="left"> <a href="mailto:yohannes.kindu@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail"/> </a> <a href="https://www.linkedin.com/in/yohannes-k-mekonnen/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin"/> </a> <a href="https://t.me/john_h2" target="_blank"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="telegram"/> </a> <a href="https://portfolio.johnhacker.dev" target="_blank"> <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=00C9FF&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="portfolio"/> </a> </div> <br/>
+💻 Tech Stack
 <div align="left">
-  <a href="mailto:yohannes.kindu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yohannes-k-mekonnen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/john_h2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
 
-###
+Backend Frameworks <br/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 
-# 💻 Tech Stack
+Languages <br/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-**Backend Frameworks**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="asp.net core logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-</div>
+Data <br/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-**Languages**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
+Async & Infra <br/> <img src="https://img.shields.io/badge/BullMQ-FF3D00?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-**Data**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="entity framework core logo"  />
-</div>
+Cloud & Integrations <br/> <img src="https://img.shields.io/badge/Azure_Blob_%26_CDN-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/SendGrid-51A9DB?style=for-the-badge&logo=sendgrid&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-**Async & Infra**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
-</div>
+Testing <br/> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/NUnit-1592D0?style=for-the-badge&logo=nunit&logoColor=white"/>
 
-**Cloud & Integrations**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=SendGrid&logo=sendgrid&label=&color=51A9DB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="sendgrid logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=OpenAI&logo=openai&label=&color=412991&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="openai logo"  />
-</div>
+Tooling <br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-**Testing**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=NUnit&logo=nunit&label=&color=1592D0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nunit logo"  />
-</div>
+</div> <br/>
+🚀 Notable Projects
+<div align="left"> <img src="https://img.shields.io/badge/-Broker--Dealer_Fundraising_Platform-0F2027?style=for-the-badge"/>
 
-**Tooling**
-<div align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-</div>
+Offering versioning, white-label theming engine, bulk investor exports (100k+ records via chunked BullMQ jobs), and an event-driven notification pipeline — built on NestJS · PostgreSQL · TypeORM · BullMQ · Redis · Azure.
+
+<img src="https://img.shields.io/badge/-Chainlinx_ERP_(HR_%26_Workforce)-2C5364?style=for-the-badge"/>
+
+Sole backend owner of a multi-site HR platform: custom Ethiopian calendar engine, payroll aggregation jobs, attendance & leave tracking — built on NestJS · MySQL · TypeORM.
+
+<img src="https://img.shields.io/badge/-Restaurant_Management_API-00C9FF?style=for-the-badge"/>
+
+Real-time order lifecycle & kitchen routing via SignalR, with transactional ingredient-level inventory tracking — built on ASP.NET Core · SignalR · EF Core.
+
+<img src="https://img.shields.io/badge/-Hagere_Bingo_(Multitenant_Betting)-0F2027?style=for-the-badge"/>
+
+Multitenant platform with full tenant isolation and multilingual (Amharic/Oromiffa) audio delivery — built on Node.js · Express · MySQL · TypeORM.
+
+</div> <br/>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JohnHacker1998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnHacker1998&theme=tokyonight&hide_border=true" height="165"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHacker1998&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/> </div>
