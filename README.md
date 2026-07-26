@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Yohannes%20K.%20Mekonnen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Node.js%20%C2%B7%20ASP.NET%20Core%20%C2%B7%20PostgreSQL&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://linkedin.com/in/yohannes-k-mekonnen">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+APIs+%26+data+pipelines;Fintech+%C2%B7+Healthcare+%C2%B7+E-Learning+platforms;Node.js+%2B+.NET+%C2%B7+4%2B+years+in+production;Open+to+remote+opportunities+%F0%9F%8C%8D&font=Fira+Code&center=true&width=650&height=45&color=00C9FF&vCenter=true&size=20&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%C2%B7+4%2B+years+in+production;Fintech+%C2%B7+Healthcare+%C2%B7+E-Learning+platforms;Node.js+%2B+.NET+%C2%B7+APIs+%26+data+pipelines;Open+to+remote+opportunities+%F0%9F%8C%8D&font=Fira+Code&center=true&width=650&height=45&color=00C9FF&vCenter=true&size=20&pause=1500"/>
 </a>
 
 </div>
@@ -25,7 +25,7 @@ whoami:
   domains: ["Fintech", "Healthcare", "E-Learning"]
   approach: "own subsystems end-to-end"
   location: "Addis Ababa, Ethiopia 🇪🇹"
-  status: "open_to_remote: true"
+  status: "open_to_work: true"
 ```
 
 <img src="https://img.shields.io/badge/Experience-4%2B_Years-00C9FF?style=flat-square&labelColor=0F2027"/>
@@ -35,7 +35,8 @@ whoami:
 <br/>
 
 - 🔭 Shipping production APIs across **fintech, healthcare, and e-learning**
-- 💼 Currently building a **broker-dealer fundraising platform** — offering versioning, investor portals, notification pipelines
+- 💼 Recently shipped 5+ subsystems on a **broker-dealer fundraising platform** — offering versioning, investor portals, notification pipelines
+- 🟢 Currently open to new backend opportunities
 - ⚙️ Comfortable owning subsystems **end-to-end** — schema design → background jobs → deployment
 - 📫 Reach me at **Yohannes.Kindu@gmail.com**
 
