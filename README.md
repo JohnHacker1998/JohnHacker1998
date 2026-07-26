@@ -75,16 +75,16 @@ Backend Engineer · Node.js · ASP.NET Core · PostgreSQL · Fintech & Real-Time
 <div align="left">
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sendgrid/51A9DB" height="40" alt="sendgrid logo"  />
+  <img src="https://img.shields.io/static/v1?message=SendGrid&logo=sendgrid&label=&color=51A9DB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="sendgrid logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="openai logo"  />
+  <img src="https://img.shields.io/static/v1?message=OpenAI&logo=openai&label=&color=412991&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="openai logo"  />
 </div>
 
 **Testing**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nunit/1592D0" height="40" alt="nunit logo"  />
+  <img src="https://img.shields.io/static/v1?message=NUnit&logo=nunit&label=&color=1592D0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nunit logo"  />
 </div>
 
 **Tooling**
